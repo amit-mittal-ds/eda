@@ -1,3 +1,8 @@
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plot
+import seaborn as sns
+
 # custom function for easy and efficient analysis of numerical univariate
 
 def UVA_numeric(data, var_group):
