@@ -1,3 +1,13 @@
+'''
+Author   - Amit Mittal
+Github   - https://github.com/amitmittal1005
+
+Functions copied and are modified from below GitHub repository and few new functions added by myself 
+Copied fromm: https://github.com/SharoonSaxena
+
+'''
+
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plot
