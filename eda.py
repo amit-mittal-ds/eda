@@ -10,7 +10,7 @@ Copied fromm: https://github.com/SharoonSaxena
 
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plot
+import matplotlib.pyplot as plt
 import seaborn as sns
 
 # custom function for easy and efficient analysis of numerical univariate
